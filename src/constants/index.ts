@@ -1,8 +1,7 @@
 export const adminEmails = [
     "km7999319@gmail.com",
-    "debu550550@gmail.com",
+    "km7463682@gmail.com",
     "support@photoin.in",
-    "subrataj31@gmail.com",
     "km799931@outlook.com"
 ]
 
